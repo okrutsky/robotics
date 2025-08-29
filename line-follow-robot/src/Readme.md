@@ -3,8 +3,8 @@
 # Components:
 
 - Arduino Uno
-- 2 DC motors + L298N motor driver (or similar)
-- 2–5 IR line sensors (depends on precision)
+- 2 DC motors + L298N motor driver
+- 2–5 IR line sensors 
 - Chassis with wheels
 - Power supply (battery pack)
 
