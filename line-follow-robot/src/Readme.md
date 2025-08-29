@@ -15,7 +15,7 @@
 - Connect VCC → 5V, GND → GND
 - Output → Arduino digital pins (e.g., D2, D3, D4 for 3 sensors)
 
-2 Motors via L298N:
+2. Motors via L298N:
 
 - Motor A: IN1 → D8, IN2 → D9
 - Motor B: IN3 → D10, IN4 → D11
