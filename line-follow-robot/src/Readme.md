@@ -1,6 +1,6 @@
-## T-1000
+# T-1000
 
-# Components:
+## Components:
 
 - Arduino Uno
 - 2 DC motors + L298N motor driver
@@ -8,7 +8,7 @@
 - Chassis with wheels
 - Power supply (battery pack)
 
-# Wiring Overview:
+## Wiring Overview:
 
 1. IR Sensors:
 
